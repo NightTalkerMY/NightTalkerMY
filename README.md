@@ -6,7 +6,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yi-yang-wong/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="wongyiyang26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:wongyiyang26@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
   <img src="https://komarev.com/ghpvc/?username=NightTalkerMY&style=for-the-badge&color=6C63FF&label=Profile+Views" />
 </p>
 
